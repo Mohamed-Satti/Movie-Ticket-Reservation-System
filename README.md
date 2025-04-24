@@ -2,7 +2,7 @@
 
 A database design project for a cinema chain movie-ticket reservation system developed for the CMPE341 course at Atilim University.
 
-## 📁 Project Structure
+## 📁 Project Structure (Loading...)
 - **ERD/**: ER/EER diagrams (Chen & Crow’s Foot)
 - **LogicalDesign/**: Relational schema and logical design docs
 - **SQL/**: SQL scripts for table creation, data insertion, and complex queries
