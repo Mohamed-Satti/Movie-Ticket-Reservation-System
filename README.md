@@ -16,8 +16,8 @@ A database design project for a cinema chain movie-ticket reservation system dev
 - Lucidchart / Draw.io (for ERD)
 
 ## 👨‍💻 Contributors
-- Mohamed SATTI — Database Designer & Team Leader
+- Mohamed SATTI - Database Designer & Team Leader
 - Reşat Berkut TURGUT - Database Developer
-- Pelin GENÇ – Team Member
-- Ali Çağrı SEPET – Team Member
-- Batuhan Taha YEŞİLYURT – Team Member
+- Pelin GENÇ - Team Member
+- Ali Çağrı SEPET - Team Member
+- Batuhan Taha YEŞİLYURT - Team Member
